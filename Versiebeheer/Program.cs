@@ -10,7 +10,7 @@ namespace Versiebeheer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello 5it");
             Console.ReadLine();
         }
     }
